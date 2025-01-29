@@ -68,12 +68,6 @@ I have a **strong mathematical background** and a **passion for AI and optimizat
 🎓 **Ph.D. in Computer Science** – University of South Carolina *(2023 – Present)*  
 🎓 **B.Sc. in Applied Mathematics** – Bu-Ali Sina University *(2018 – 2022)*  
 
----
-
-## 🌱 Currently Learning
-- **Advancements in Large Language Models (LLMs)**
-- **Optimizing Edge AI & Neuromorphic Systems**
-- **Mathematical Optimization for AI**
 
 ---
 
