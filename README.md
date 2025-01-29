@@ -39,21 +39,28 @@ I have a **strong mathematical background** and a **passion for AI and optimizat
 ---
 
 ## 💻 Technical Skills
-**Programming & Development:**  
+### **Programming & Development**
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
 ![Matlab](https://img.shields.io/badge/Matlab-red?logo=mathworks)  
 ![R](https://img.shields.io/badge/R-blue?logo=r)  
 
-**Machine Learning & AI:**  
+### **Machine Learning & AI**
 ✅ **Deep Learning, Neural Networks, NLP**  
 ✅ **Edge AI & Neuromorphic Computing (SNNs)**  
 ✅ **Quantization & Model Optimization**  
 
-**Data Science & Tools:**  
+### **Data Science & Tools**
 ✅ **Tableau, SQL, Mars, Latex**  
 ✅ **Performance Benchmarking & Numerical Analysis**  
+
+### **📊 Visualization & Data Representation**
+✅ **Matplotlib & Seaborn** – Advanced plotting and statistical visualization  
+✅ **Tableau** – Interactive dashboards and business intelligence  
+✅ **D3.js** – Data-driven visualizations for web applications  
+✅ **Plotly** – Interactive plots for Python & R  
+✅ **ggplot2** – Advanced statistical graphics in R  
 
 ---
 
@@ -67,7 +74,6 @@ I have a **strong mathematical background** and a **passion for AI and optimizat
 ## 🎓 Education
 🎓 **Ph.D. in Computer Science** – University of South Carolina *(2023 – Present)*  
 🎓 **B.Sc. in Applied Mathematics** – Bu-Ali Sina University *(2018 – 2022)*  
-
 
 ---
 
