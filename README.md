@@ -64,13 +64,6 @@ I have a **strong mathematical background** and a **passion for AI and optimizat
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasti-Zanganeh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasti-Zanganeh&layout=compact&langs_count=5&theme=tokyonight&hide=javascript,html,css)  
-
----
-
 ## 🎓 Education
 🎓 **Ph.D. in Computer Science** – University of South Carolina *(2023 – Present)*  
 🎓 **B.Sc. in Applied Mathematics** – Bu-Ali Sina University *(2018 – 2022)*  
